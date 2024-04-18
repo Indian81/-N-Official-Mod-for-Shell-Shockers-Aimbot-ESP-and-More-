@@ -177,7 +177,11 @@ The Mod was inspired by onlypuppy7's LibertyMutualV1 https://greasyfork.org/en/s
 ###Why  ঔৣƗNĐƗȺ»Official Mod for Shell Shockers
  ঔৣƗNĐƗȺ»Official Mod for Shell Shockers  is a modern mod that is simple, open source, & has NO bloatware (Zortalious).
 We don't advertise some random Discord server or beg you for good reviews on Greasyfork (Bertalious).
+
 The GUI is really simple, but still has customization (Zuckalious).
+
 The ESP doesn't have annoying wireframe boxes with those disgusting lines (Zertalious).
+
 It doesn't have 5 minute ads of our own preventing your from playing the game (Zermalious).
+
 And most of all, we don't scam kids for money (Zuckaliousoisisoio1ious).
