@@ -26,7 +26,7 @@
 - Adjust the range at which opponents are detected by ESP using a precision slider control.
 - Tailor ESP visibility to your liking, from close-range awareness to broad tactical oversight of the entire battlefield.
 
-2. **Tracer Length Slider:**
+2. **Tracer Length Slider:**(COMING SOON)
 - Modify the length of tracer lines to optimize visual clarity and tactical awareness.
 - Fine-tune tracer settings to strike the perfect balance between visibility and screen clutter.
 
