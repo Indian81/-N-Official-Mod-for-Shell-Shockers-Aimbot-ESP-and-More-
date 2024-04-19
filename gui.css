@@ -1,0 +1,28 @@
+             #libertyMutualGui {
+                position: fixed;
+                top: 20px;
+                left: 20px;
+                background-color: rgba(0, 0, 0, 0.7);
+                padding: 10px;
+                border: 4px solid black;
+                border-radius: 5px;
+                z-index: 9999;
+                font-family: 'Agency FB', sans-serif;
+                font-style: italic;
+                font-weight: bold;
+                font-size: 10px;
+
+            }
+            #libertyMutualGui input[type="range"] {
+                width: 100px;
+                margin-bottom: 5px;
+            }
+            #toggleGuiButton {
+                margin-top: 5px;
+                padding: 5px;
+                cursor: pointer;
+
+            input[type="range"] {
+        background: linear-gradient(to right, red 0%, red 100%);
+
+            }
