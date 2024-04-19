@@ -1,0 +1,53 @@
+</style>
+<div id="libertyMutualGui" style="font-family: 'Agency FB', sans-serif; padding: 14px; border: 2px solid red; border-radius: 5px; position: fixed; top: 20px; left: 20px; z-index: 9999;">
+    <div>
+      <h3 style="color: #FF0000; text-align: center;">Settings</h3>
+        <input type="checkbox" id="espCheckbox" checked> <span style="color: red;">ESP</span> [V]<br>
+        <input type="checkbox" id="tracersCheckbox" checked> <span style="color: red;">TRACERS</span> [N]<br>
+        <input type="checkbox" id="rmbCheckbox"> <span style="color: red;">Aimbot</span>[C]<br>
+        <br>
+        <div>
+            <input type="range" id="redSlider" min="0" max="255" value="255">
+            <input type="number" id="redValue" min="0" max="255" value="255">
+            <span style="color: red;">ESP RED</span>
+            <br>
+            <input type="range" id="greenSlider" min="0" max="255" value="255">
+            <input type="number" id="greenValue" min="0" max="255" value="255">
+            <span style="color: red;">ESP GREEN</span>
+            <br>
+            <input type="range" id="blueSlider" min="0" max="255" value="255">
+            <input type="number" id="blueValue" min="0" max="255" value="255">
+            <span style="color: red;">ESP BLUE</span>
+            <br>
+            <br>
+            <input type="range" id="espRedSlider" min="0" max="255" value="255">
+            <input type="number" id="espRedValue" min="0" max="255" value="255">
+            <span style="color: red;">TRACERS RED</span>
+            <br>
+            <input type="range" id="espGreenSlider" min="0" max="255" value="255">
+            <input type="number" id="espGreenValue" min="0" max="255" value="255">
+            <span style="color: red;">TRACERS GREEN</span>
+            <br>
+            <input type="range" id="espBlueSlider" min="0" max="255" value="255">
+            <input type="number" id="espBlueValue" min="0" max="255" value="255">
+            <span style="color: red;">TRACERS BLUE</span>
+        </div>
+        <!-- Aimbot Settings -->
+        <h3>Aimbot Settings</h3>
+        <label for="aimbotSensitivity">Aimbot Sensitivity:</label>
+        <input type="range" id="aimbotSensitivity" min="1" max="10" value="5">
+        <span id="aimbotSensitivityValue">5</span><br>
+        <label for="aimbotFOV">Aimbot FOV:</label>
+        <input type="range" id="aimbotFOV" min="1" max="100" value="50">
+        <span id="aimbotFOVValue">50</span><br>
+        <div>
+        <h3>Links</h3>
+        <div>
+            <a href="https://greasyfork.org/en/users/1228152-%E0%A6%94%E0%A7%A3%C9%A8n%C4%91%C9%A8%E2%B1%A5%E0%A6%94%E0%A7%A3">Author's Page</a>
+        <div>
+            <a href="https://greasyfork.org/en/scripts/492659">Homepage</a>
+        </div>
+           <a href="https://discord.gg/R5rv9etva9">Discord</a>
+    </div>
+    <button id="toggleGuiButton">Toggle GUI (H)</button>
+</div>
