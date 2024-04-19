@@ -175,7 +175,8 @@ The ঔৣƗNĐƗȺ»Official Mod for Shell Shockers script is authored by onlyp
 The Mod was inspired by onlypuppy7's LibertyMutualV1 https://greasyfork.org/en/scripts/484168-libertymutualv1-for-shell-shockers. 🔥ঔৣƗNĐƗȺ»ŦłǤɆⱤঔৣ🔥made some useful tools to it and a gui. ChatGPT was used for simplifying the event listeners with document.getElementById.
 
 ###Why  ঔৣƗNĐƗȺ»Official Mod for Shell Shockers
- ঔৣƗNĐƗȺ»Official Mod for Shell Shockers  is a modern mod that is simple, open source, & has NO bloatware (Zortalious).
+ ঔৣƗNĐƗȺ»Official Mod for Shell Shockers  is a modern mod that is simple, open source, & has NO bloatware/adware (Zortalious).
+ 
 We don't advertise some random Discord server or beg you for good reviews on Greasyfork (Bertalious).
 
 The GUI is really simple, but still has customization (Zuckalious).
