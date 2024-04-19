@@ -125,7 +125,7 @@
                 alert('Aight, let\'s try this. If it is invalid, it will just crash.');
                 clientKeys = JSON.parse(userInput);
             } else {
-                alert('You did not enter anything, this is gonna crash (LOL).');
+                alert('You did not enter anything, this is gonna crash (LMFAO).');
             }
         } else {
             clientKeys = JSON.parse(onlineClientKeys);
