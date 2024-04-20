@@ -37,8 +37,8 @@
    - Choose from a vast palette of colors using an integrated color picker tool to personalize tracer visuals.
    - Make tracers stand out or blend seamlessly with your game environment for maximum effectiveness.
 
-5. **Opacity Control for Tracers:**
-   - Adjust the opacity of tracer lines to maintain clear visibility without obstructing your view of the battlefield.
+5. **Color Control for ESP:**
+   - Adjust the color of ESP to maintain color without obstructing your view of the battlefield.
    - Strike the perfect balance between visual impact and unobtrusiveness for optimal gameplay immersion.
 
 ### Usage:
