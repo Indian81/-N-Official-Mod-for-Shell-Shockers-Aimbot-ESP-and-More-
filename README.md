@@ -104,7 +104,7 @@ https://zygote.cafe
 ### External Links:
 - [Author's Greasy Fork Page](https://greasyfork.org/en/users/1171404-ঔৣɨnđɨⱥ-ŧłǥɇɽঔৣ/)
 - [Script Homepage](https://greasyfork.org/en/scripts/492659-%E0%A6%94%E0%A7%A3%C9%A8n%C4%91%C9%A8%E2%B1%A5-official-mod-for-shell-shockers-aimbot-esp-and-more/)
-- [Discord Community](https://discord.gg/R5rv9etva9)
+- [Discord Community](https://discord.gg/utRmASAfhP)
 - [Github] https://github.com/Indian81/India-Shell-Shockers-Mod--Aimbot-ESP-and-MOAR-
 
 ###List of Colors and Their RGB Values
